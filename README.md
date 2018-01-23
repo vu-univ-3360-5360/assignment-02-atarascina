@@ -1,5 +1,7 @@
 # Assignment #2
 
+Some new text
+
 For this assignment:
 
 * Clone this assignment repository to your own computer.
